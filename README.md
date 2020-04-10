@@ -1,4 +1,3 @@
 LUDO POTTE STORE
 
-MAGASIN OFFICIEL D'APPLICATIONS ANDROID ET IOS DE LUDO POTTE
-DISPONIBLE AU https://github.com/ludopotte/ludopottestore/releases
+MAGASIN OFFICIEL D'APPLICATIONS ANDROID ET IOS DE LUDO POTTE AU https://github.com/ludopotte/ludopottestore/releases
